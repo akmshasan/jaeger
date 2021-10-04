@@ -21,17 +21,6 @@ keywords:
 - opentracing
 - tracing
 - instrumentation
-maintainers:
-- email: david.vonthenen@dell.com
-  name: dvonthenen
-- email: ankit.mehta@appian.com
-  name: mehta-ankit
-- email: michael.lorant@fairfaxmedia.com.au
-  name: mikelorant
-- email: naseem@transit.app
-  name: naseemkullah
-- email: pavel.nikolov@fairfaxmedia.com.au
-  name: pavelnikolov
 name: jaeger
 sources:
 - https://hub.docker.com/u/jaegertracing/
